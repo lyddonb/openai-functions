@@ -38,3 +38,4 @@ venv/
 
 # Data files
 api/data
+mem_store
